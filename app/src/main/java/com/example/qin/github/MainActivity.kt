@@ -2,6 +2,7 @@ package com.example.qin.github
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 
 class MainActivity : AppCompatActivity() {
 
@@ -12,6 +13,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun aa() {
-
+        Log.d("","")
     }
 }
