@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
 
     private fun aa() {
         Log.d("","branch3")
+        Log.d("","合并")
     }
 }
